@@ -263,3 +263,10 @@ main{
 .dots .dot.active{
     border-color: orange;
 }
+#everydivincontainer{
+    height: 20%;
+    width: 20%;
+    background-color: #373b69;
+    font-size: large;
+    font-weight: 600;
+}
